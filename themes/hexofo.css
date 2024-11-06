@@ -1,0 +1,23 @@
+body {
+  background-color: #1a1a2e;
+  color: #e94560;
+}
+
+button, select, input {
+  background-color: #0f3460;
+  color: #f0f0f0;
+  border: 1px solid #e94560;
+}
+
+.menu-bar {
+  background-color: #0f3460;
+}
+
+.menu-bar a {
+  color: #f0f0f0;
+}
+
+.menu-bar a:hover {
+  color: #e94560;
+}
+

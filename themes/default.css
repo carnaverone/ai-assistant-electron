@@ -1,0 +1,24 @@
+/* default.css */
+body {
+  background-color: #ffffff;
+  color: #333333;
+}
+
+button, select, input {
+  background-color: #f0f0f0;
+  color: #333333;
+  border: 1px solid #cccccc;
+}
+
+.menu-bar {
+  background-color: #333333;
+}
+
+.menu-bar a {
+  color: #ffffff;
+}
+
+.menu-bar a:hover {
+  color: #1a1a1a;
+}
+

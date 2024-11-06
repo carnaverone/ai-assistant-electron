@@ -20,7 +20,7 @@
     "@electron-forge/plugin-auto-unpack-natives": "^7.5.0",
     "@electron-forge/plugin-fuses": "^7.5.0",
     "@electron/fuses": "^1.8.0",
-    "electron": "^23.0.0"
+    "electron": "^23.3.13"
   },
   "description": "Boilerplate for a simple Electron app",
   "author": "MichaelCurrin",
@@ -40,7 +40,10 @@
   },
   "homepage": "https://github.com/MichaelCurrin/electron-quickstart#readme",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "electron-prompt": "^1.7.0",
-    "electron-squirrel-startup": "^1.0.1"
+    "electron-squirrel-startup": "^1.0.1",
+    "jest": "^29.7.0",
+    "winston": "^3.16.0"
   }
 }
